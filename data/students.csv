@@ -1,6 +1,6 @@
-id,status
+id,status,cause
 1,Active
-2,Dropped
+2,Dropped,financial
 3,Active
-4,Dropped
+4,Dropped,family
 5,Active
